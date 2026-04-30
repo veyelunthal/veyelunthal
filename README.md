@@ -1,8 +1,6 @@
-## Hi there 👋
 
-# Hi there 👋
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/veyelunthal/veyelunthal/main/Tech%20Hearts%20GIF%20by%20Persona.gif"/>
 
 I am learning AIML 🚀
 
