@@ -1,9 +1,10 @@
 ## Hi there 👋
-## Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/veyelunthal/veyelunthal/blob/main/Tech%20Hearts%20GIF%20by%20Persona.gif" width="600">
-</p>
+# Hi there 👋
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+
+I am learning AIML 🚀
 
 <!--
 **veyelunthal/veyelunthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
