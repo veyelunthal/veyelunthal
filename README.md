@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Hi there 👋
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veyelunthal/veyelunthal/blob/main/Tech%20Hearts%20GIF%20by%20Persona.gif" width="600">
+</p>
 
 <!--
 **veyelunthal/veyelunthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
