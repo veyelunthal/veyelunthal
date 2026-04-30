@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Veyelunthal</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/veyelunthal/veyelunthal/main/Tech%20Hearts%20GIF%20by%20Persona.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/veyelunthal/veyelunthal/main/Tech%20Hearts%20GIF%20by%20Persona.gif" width="300"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Baloo&ext=heatmap" />
+ <img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ---
