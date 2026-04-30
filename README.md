@@ -34,21 +34,6 @@
 </p>
 
 ---
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/veyelunthal22/">
-    <img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
-
-<p align="center">
- <img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Baloo&ext=contest"/>
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
